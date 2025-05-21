@@ -1,0 +1,84 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #b9b9b9;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #000;
+  color: rgb(255, 255, 255);
+  padding: 420px 20px;
+  text-align: center;
+ font: normal 40px Typewriter;
+}
+
+nav {
+  background-color: #303130;
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  margin: 0 10px;
+  font-weight: bold;
+}
+
+main {
+  max-width: 1000px;
+  margin: 20px auto;
+  padding: 40px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+h2 {
+  color: #000;
+  border-bottom: 2px solid #b9b9b9;
+  padding-bottom: 5px;
+}
+
+h3 {
+  color: #000;
+  margin-top: 20px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+footer {
+  background-color: #000;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+*{ padding:0;
+margin: 0%;
+box-sizing: border-box;}
+
+.container {
+  width: 100%;
+  height: 50vh;
+}
+
+.box {
+  width: 500px;
+  height: 800px;
+  position: absolute;
+  text-align: justify;
+}
+
+agrinho#img {
+  left: 60px;
+}
